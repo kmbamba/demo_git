@@ -1,6 +1,6 @@
 c'est notre premier pas avec git
-<<<<<<< HEAD
+
 ajout d'un nouveau fichier modifié dans master
-=======
+
 ajout d'un nouveau fichier modifié
->>>>>>> main
+
